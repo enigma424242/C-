@@ -67,7 +67,6 @@ int main() {
 	}
 
 	// Prints an X
-	/*
 	for (i = 0; i < size ; i++) {
 		for (j = 0; j < size ; j++) {
 			if (i + j == size - 1)
@@ -78,7 +77,6 @@ int main() {
 					cout << " ";
 		}
 	}
-	*/
 
 	// Prints a diamond
 	for (i = 0; i < size - 1; i++) {
