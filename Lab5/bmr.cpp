@@ -1,4 +1,4 @@
-// BMR
+// Calculates the Basal Metabolic Rate and how many cookies can a male or female eat per day
 // Stephen M. Struble
 // 9/24/21
 
