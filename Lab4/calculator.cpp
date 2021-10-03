@@ -1,5 +1,5 @@
 // Calculator
-// Stephen M. Struble
+// 
 // September 17, 2021
 
 
