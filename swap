@@ -1,5 +1,5 @@
 // Swaps three integers from least to greatest.
-// Stephen M. Struble
+// 
 // 10/1/21
 
 #include <iostream>
