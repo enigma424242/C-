@@ -1,5 +1,5 @@
 // Prints figures to console prompt
-// Stephen M. Struble
+// 
 // 9/24/21
 
 #include <iostream>
