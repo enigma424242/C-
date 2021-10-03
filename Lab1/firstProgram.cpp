@@ -1,5 +1,5 @@
 // Welcome!
-// Stephen Struble
+// 
 // 8/26/21
 
 #include <iostream>
