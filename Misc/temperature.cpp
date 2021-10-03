@@ -1,5 +1,5 @@
 // Converts degrees Fahrenheit to degrees Celsius
-// Stephen M. Struble
+// 
 // 9/29/2021
 
 #include <iostream>
