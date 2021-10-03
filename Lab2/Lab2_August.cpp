@@ -1,5 +1,5 @@
 // demonstrates separating digits with a remainder operator
-// Stephen Struble
+// 
 // 09/03/2021
 
 // IMPORTANT: This was only required to work into the 30's. I may come back and finish it.
