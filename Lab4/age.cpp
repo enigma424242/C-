@@ -1,5 +1,5 @@
 // Guess the Age of the Troll
-// Stephen M. Struble
+// 
 // September 17, 2021
 
 #include <iostream>
