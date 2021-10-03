@@ -1,5 +1,5 @@
 // Add the sum of whole positive integers
-// Stephen M. Struble
+//
 // September 11, 2021
 // Revisions made on September 13,2021
 
