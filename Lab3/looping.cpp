@@ -1,5 +1,5 @@
 // Prints various shapes to console
-// Stephen M. Struble
+// 
 // September 11, 2021
 
 #include <iostream>
