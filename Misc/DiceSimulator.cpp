@@ -1,5 +1,5 @@
 // Simulates rolling a die of the users choice
-// 
+// Stephen M. Struble
 // 9/29/2021
 
 #include <iostream>
